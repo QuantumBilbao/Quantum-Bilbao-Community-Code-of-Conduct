@@ -1,15 +1,13 @@
 # Quantum-Bilbao-Community-Code-of-Conduct
 
-Quantum-Madrid-Community-Code-of-Conduct
-
-Quantum Madrid Community Code of Conduct
+Quantum Bilbao Community Code of Conduct
 
 Purpose
-A primary goal of the Quantum Madrid Community is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
+A primary goal of the Quantum Bilbao Community is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 
 This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
 
-We invite all those who participate in Quantum Madrid to help us create safe and positive experiences for everyone.
+We invite all those who participate in Quantum Bilbao to help us create safe and positive experiences for everyone.
 
 Open Culture
 A supplemental goal of this Code of Conduct is to increase open culture in our field by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
